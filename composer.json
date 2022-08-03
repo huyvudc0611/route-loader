@@ -1,7 +1,7 @@
 {
     "name": "dancode/route-loader",
     "description": "optimize route",
-    "type": "libary",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
